@@ -1,0 +1,9 @@
+{
+  "AnalysisSchemeName":"fuzzy_romanian",
+  "AnalysisSchemeLanguage":"ro",
+  "AnalysisOptions":{
+    "Synonyms": "{\"groups\": [[\"obişnuit\", \"comun\", \"tipic\"]], \"aliases\": {\"maşină\": [\"automobil\", \"camion\", \"dubă\"]}}",
+    "Stopwords": "[\"un\",\"o\",\"pe\",\"la\"]",
+    "AlgorithmicStemming":"full"
+  }
+}

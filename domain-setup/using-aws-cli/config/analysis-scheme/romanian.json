@@ -1,0 +1,9 @@
+{
+  "AnalysisSchemeName":"romanian",
+  "AnalysisSchemeLanguage":"ro",
+  "AnalysisOptions":{
+    "Stopwords": "[]",
+    "Synonyms": "{}",
+    "AlgorithmicStemming":"none"
+  }
+}

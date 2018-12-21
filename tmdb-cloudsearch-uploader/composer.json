@@ -1,0 +1,20 @@
+{
+  "name": "evosearchers/tmdb-cloudsearch-uploader",
+  "description": "Uploader of TMDB data to Cloudsearch domain",
+  "type": "project",
+  "require": {
+    "php-tmdb/api": "^2.1",
+    "aws/aws-sdk-php": "^3.81",
+    "symfony/console": "^4.2",
+    "symfony/config": "^4.2",
+    "symfony/yaml": "^4.2",
+    "symfony/dependency-injection": "^4.2",
+    "symfony/filesystem": "^4.2",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Evosearchers\\": "src/Evosearchers"
+    }
+  }
+}

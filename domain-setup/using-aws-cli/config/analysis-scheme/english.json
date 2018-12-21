@@ -1,0 +1,9 @@
+{
+  "AnalysisSchemeName":"english",
+  "AnalysisSchemeLanguage":"en",
+  "AnalysisOptions":{
+    "Stopwords": "[]",
+    "Synonyms": "{}",
+    "AlgorithmicStemming":"none"
+  }
+}

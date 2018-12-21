@@ -1,0 +1,6 @@
+parameters:
+  tmdb:
+    api_key: the api key here
+  cloudsearch:
+    accessKey: access key here
+    secretKey: secret key here

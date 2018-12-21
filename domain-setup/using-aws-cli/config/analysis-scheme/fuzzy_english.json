@@ -1,0 +1,9 @@
+{
+  "AnalysisSchemeName": "fuzzy_english",
+  "AnalysisSchemeLanguage": "en",
+  "AnalysisOptions": {
+    "Synonyms": "{\"groups\": [[\"usual\", \"common\", \"typical\"]], \"aliases\": {\"car\": [\"jeep\", \"truck\", \"auto\"]}}",
+    "Stopwords": "[\"a\", \"an\", \"and\", \"are\", \"as\", \"at\", \"be\", \"but\"]",
+    "AlgorithmicStemming": "full"
+  }
+}
